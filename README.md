@@ -4,7 +4,7 @@
 使用说明:  
 1.安装油猴(tampermonkey)插件。  
 2.下载脚本并安装到油猴中。  
-3.打开编辑，将下面内容改为你的内容
-    var user_account='你的账号';
-    var user_password='你的密码';
+3.打开编辑，将下面内容改为你的内容  
+    var user_account='你的账号';  
+    var user_password='你的密码';  
     var lsp=4;//你的运营商对应的数字，运营商代码，1 校园网、2 中国移动、3 中国联通、4 中国电信
